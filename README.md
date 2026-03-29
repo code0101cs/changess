@@ -2,3 +2,4 @@
 checking new commands
 
 hello
+add
