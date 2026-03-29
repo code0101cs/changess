@@ -2,4 +2,8 @@
 checking new commands
 
 hello
+
 add
+
+sub
+
